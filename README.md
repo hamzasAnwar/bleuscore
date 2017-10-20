@@ -1,4 +1,4 @@
-# Bleuscore - Neural Machine Translation/PreProcessing Integrated with transliteration for Arabic to English
+# Bleuscore - Neural Machine Translation
 
 Calculate the Bleu Score for Machine Translated Text.
 
